@@ -1,2 +1,2 @@
 # dio-github-challenge
-Repositório cria para o desafio de projeto Git/GitHub.
+Repositório criado para o desafio de projeto Git/GitHub.
